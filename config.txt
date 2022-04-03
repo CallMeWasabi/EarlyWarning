@@ -1,0 +1,9 @@
+type_file=.xml
+min_quantity_rain=0
+max_quantity_rain=100
+min_quantity_water=20
+max_quantity_water=40
+min_temperature=20
+max_temperature=35
+min_humidity=20
+max_humidity=60
